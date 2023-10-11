@@ -24,3 +24,8 @@ in the unpacked file, build using npm
 
 test the server
   curl http://localhost:3000
+
+# resources
+using a browser for a security test
+https://getmantra.com/web-app-security-testing-with-browsers/
+
