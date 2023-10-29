@@ -1,5 +1,5 @@
 # juiceshop
-for the owasp juice shop
+`for the owasp juice shop`
 
 # installation
 https://pwning.owasp-juice.shop/companion-guide/latest/part1/running.html
