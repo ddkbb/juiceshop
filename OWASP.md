@@ -7,3 +7,5 @@
 
 ## Install Firefox
 1. Navigate to https://www.mozilla.org/en-US/firefox/new/
+
+## Setting up FoxyProxy
