@@ -12,8 +12,7 @@
 https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search
 2. enable extension in private browsing
 3. click on the extension and hit `Options`
-4. navigate to `Proxies` tab
-5. click `Add` and configure a new proxy
+4. 5. click on the extension and select the `Add` option to configure a new proxy
 6. title `Burp`
 7. type: `HTTP`
 8. hostname: `127.0.0.1`
