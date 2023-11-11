@@ -20,7 +20,7 @@ https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard/?utm_source=ad
 8. hostname: `127.0.0.1`
 9. port: `8080`
 10. click `save`
-11. navigate to `http:localhost:8080`
+11. navigate to `http://localhost:8080`
 12. click `CA Certificate` at the top right and download the certificate
 13. in firefox, navigate to browser `settings` and sesarch for certificates
 14. click `view certificates` and under the `Authority` tab, click import
