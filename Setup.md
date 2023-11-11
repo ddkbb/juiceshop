@@ -12,7 +12,7 @@
 https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search
 2. enable extension in private browsing
 3. click on the extension and hit `Options`
-4. 5. click on the extension and select the `Add` option to configure a new proxy
+4. click on the extension and select the `Add` option to configure a new proxy
 6. title `Burp`
 7. type: `HTTP`
 8. hostname: `127.0.0.1`
@@ -21,7 +21,7 @@ https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard/?utm_source=ad
 11. make sure burpsuite is on and `intercept` is on, and foxyproxy is enabled
 12. navigate to `http://localhost:8080`
 13. click `CA Certificate` at the top right and download the certificate
-14. in firefox, navigate to browser `settings` and sesarch for certificates
-15. click `view certificates` and under the `Authority` tab, click import
-16. import the downloaded cert and save
+14. in firefox, navigate to browser `settings` and search for certificates
+15. click `view certificates` and under the `Authority` tab, click `import`
+16. import the downloaded certification `cacert.der` and save
 17. it is under port swigger
